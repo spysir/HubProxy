@@ -180,4 +180,4 @@ jobs:
           overwrite_files: true
           draft: false
           prerelease: false
-          token: ${{ secrets.GITHUB_TOKEN }}
+          token: ${{ secrets.GH_TOKEN }}
